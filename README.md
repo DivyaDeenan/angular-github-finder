@@ -1,6 +1,6 @@
 # AngularGithubFinder
 
-Simple app that searches Github user profiles and repositories using bootstrap.
+Simple app that searches Github user profiles and repositories using bootstrap and git hub api.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
 ## Development server
